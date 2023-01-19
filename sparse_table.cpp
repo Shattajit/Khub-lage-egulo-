@@ -1,4 +1,4 @@
-///it will be work for range min,max,or,and with no update
+//it will be work for range min,max,or,and with no update
 
 int ar[mx];
 int n,m,ii,k;
